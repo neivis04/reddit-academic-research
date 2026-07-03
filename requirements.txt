@@ -1,0 +1,12 @@
+praw
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+transformers
+torch
+spacy
+nltk
+python-dotenv
+tqdm
