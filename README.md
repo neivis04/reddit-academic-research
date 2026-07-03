@@ -64,13 +64,6 @@ reddit-screen-time-analysis/
 ├── notebooks/
 │
 ├── src/
-│   ├── collect.py
-│   ├── preprocess.py
-│   ├── analysis.py
-│   ├── visualization.py
-│   └── utils.py
-│
-├── docs/
 │
 ├── requirements.txt
 ├── README.md
